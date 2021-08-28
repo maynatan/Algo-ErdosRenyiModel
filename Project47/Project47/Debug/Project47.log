@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\nadav\source\repos\Project47\Project47\main.cpp(78,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project47.vcxproj -> C:\Users\nadav\source\repos\Project47\Debug\Project47.exe
